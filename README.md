@@ -1,9 +1,6 @@
 
 # JAVA Interview Questions
 
-
-
-
 - SOLID Property in Java
 - Methods in Object Class
 - Working of synchronized and lock in multithread application
@@ -11,6 +8,7 @@
 - Convert HashMap to List and sort based on age
 - Difference between ArrayList and LinkedList and which is better for insertion, deletion and fetching.
 - hashcode and Equals Methods and their working.
+
 
 - Decorator design pattern with implementation
 - Factory Design Pattern and Abstract Design Pattern
@@ -37,6 +35,7 @@
 - How to make own Markable Interface
 
 
+
 - What is the different ways to create Object in Java
 - What is serialization and why it is needed
 - Life Cycle of Bean
@@ -51,6 +50,8 @@
 - Architecture of Current Project
 - Which Framework used for REST Webservice
 
+
+
 - Scope in Spring Application
 - Difference between Java Singleton and Spring Singleton
 volatile Keyword
@@ -59,15 +60,23 @@ volatile Keyword
 - Static and final Keyword in Java
 - why clone method is part of object class
 
+
+
 - high cohesion and low cohesion
 - Method Overriding rules
 prevent-singleton-pattern-reflection-serialization-cloning/
 - swap HaspMap key and Value
 - Difference Between Factory design pattern and Abstract factory design pattern
 
+
+
+
 - How to make list immutatable
 - Overloading and Overriding Concept
 - Customize HashMap - Implementation of get and put method
+
+
+  
 
 - how to make servlet single threaded
 - why list has equals and hashcode method when we these methods already have in - Object class
