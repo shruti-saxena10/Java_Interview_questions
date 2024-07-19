@@ -8,7 +8,7 @@
 - Convert HashMap to List and sort based on age
 - Difference between ArrayList and LinkedList and which is better for insertion, deletion and fetching.
 - hashcode and Equals Methods and their working.
-
+- - - - - - - - - - - - - - - - - 
 
 - Decorator design pattern with implementation
 - Factory Design Pattern and Abstract Design Pattern
